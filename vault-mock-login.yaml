@@ -1,0 +1,18 @@
+calendar-of-events:
+  AS_APP_MOCK_LOGIN: ''
+  AS_APP_MOCK_LOGIN_STF_ID: ''
+  AS_APP_MOCK_LOGIN_STU_ID: ''
+lmprs:
+  AS_APP_MOCK_LOGIN: ''
+  AS_APP_MOCK_LOGIN_STF_ID: ''
+  AS_APP_MOCK_LOGIN_STU_ID: ''
+personal-data-registration:
+  AS_APP_MOCK_LOGIN: ''
+  AS_APP_MOCK_LOGIN_ID: ''
+personal-data-service-internet:
+  AS_APP_MOCK_LOGIN: ''
+  AS_APP_MOCK_LOGIN_STF_ID: ''
+  AS_APP_MOCK_LOGIN_STU_ID: ''
+personal-data-service-intranet:
+  AS_APP_MOCK_LOGIN: ''
+  AS_APP_MOCK_LOGIN_ID: ''

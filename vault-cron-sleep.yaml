@@ -1,0 +1,18 @@
+conflict-of-interest:
+  AS_APP_CRON_SLEEP: ''
+databank:
+  AS_APP_CRON_SLEEP: ''
+  AS_APP_MOCK_LOGIN: ''
+  AS_APP_MOCK_LOGIN_ID: ''
+ofn-qrcode:
+  AS_APP_CRON_SLEEP: ''
+user-account-data-cron:
+  AS_APP_CRON_SLEEP: ''
+user-account-mgmt-cron:
+  AS_APP_CRON_SLEEP: ''
+voc-admin-module:
+  AS_APP_CRON_SLEEP: ''
+voc-cron-module:
+  AS_APP_CRON_SLEEP: ''
+voc-office-contact:
+  AS_APP_CRON_SLEEP: ''

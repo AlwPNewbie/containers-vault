@@ -1,0 +1,22 @@
+cde-research-grant:
+  AS_APP_RGR6_ENCRYPTION_KEY: ''
+lost-card-management:
+  AS_APP_LCD_ENCRYPTION_KEY: ''
+nus-dnc-registry:
+  AS_APP_DNC_ENCRYPTION_KEY: ''
+occhealth-registry:
+  AS_APP_OCC_ENCRYPTION_KEY: ''
+online-degree-verification:
+  AS_APP_ODVS_ENCRYPTION_KEY_STG: ''
+overseas-travel-declaration:
+  AS_APP_PRJOTD_ENCRYPTION_KEY: ''
+photo-verification:
+  AS_APP_PRJSES_ENCRYPTION_KY_STG: ''
+pin-retrieval:
+  AS_APP_VPN_ENCRYPTION_KEY_STG: ''
+science-research-registration:
+  AS_APP_SRPRS_ENCRYPTION_KEY: ''
+staff-photo-mgmt:
+  AS_APP_PTMA_ENCRYPTION_KEY_STG: ''
+usp-testimonial:
+  AS_APP_TST_ENCRYPTION_KEY: ''

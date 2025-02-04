@@ -1,0 +1,58 @@
+calendar-of-events:
+  AS_APP_MOCK_LOGIN: ''
+  AS_APP_MOCK_LOGIN_STF_ID: ''
+  AS_APP_MOCK_LOGIN_STU_ID: ''
+cde-research-grant:
+  AS_APP_RGR6_ENCRYPTION_KEY: ''
+conflict-of-interest:
+  AS_APP_CRON_SLEEP: ''
+databank:
+  AS_APP_CRON_SLEEP: ''
+  AS_APP_MOCK_LOGIN: ''
+  AS_APP_MOCK_LOGIN_ID: ''
+lmprs:
+  AS_APP_MOCK_LOGIN: ''
+  AS_APP_MOCK_LOGIN_STF_ID: ''
+  AS_APP_MOCK_LOGIN_STU_ID: ''
+lost-card-management:
+  AS_APP_LCD_ENCRYPTION_KEY: ''
+nus-dnc-registry:
+  AS_APP_DNC_ENCRYPTION_KEY: ''
+occhealth-registry:
+  AS_APP_OCC_ENCRYPTION_KEY: ''
+ofn-qrcode:
+  AS_APP_CRON_SLEEP: ''
+online-degree-verification:
+  AS_APP_ODVS_ENCRYPTION_KEY_STG: ''
+overseas-travel-declaration:
+  AS_APP_PRJOTD_ENCRYPTION_KEY: ''
+personal-data-registration:
+  AS_APP_MOCK_LOGIN: ''
+  AS_APP_MOCK_LOGIN_ID: ''
+personal-data-service-internet:
+  AS_APP_MOCK_LOGIN: ''
+  AS_APP_MOCK_LOGIN_STF_ID: ''
+  AS_APP_MOCK_LOGIN_STU_ID: ''
+personal-data-service-intranet:
+  AS_APP_MOCK_LOGIN: ''
+  AS_APP_MOCK_LOGIN_ID: ''
+photo-verification:
+  AS_APP_PRJSES_ENCRYPTION_KY_STG: ''
+pin-retrieval:
+  AS_APP_VPN_ENCRYPTION_KEY_STG: ''
+science-research-registration:
+  AS_APP_SRPRS_ENCRYPTION_KEY: ''
+staff-photo-mgmt:
+  AS_APP_PTMA_ENCRYPTION_KEY_STG: ''
+user-account-data-cron:
+  AS_APP_CRON_SLEEP: ''
+user-account-mgmt-cron:
+  AS_APP_CRON_SLEEP: ''
+usp-testimonial:
+  AS_APP_TST_ENCRYPTION_KEY: ''
+voc-admin-module:
+  AS_APP_CRON_SLEEP: ''
+voc-cron-module:
+  AS_APP_CRON_SLEEP: ''
+voc-office-contact:
+  AS_APP_CRON_SLEEP: ''
